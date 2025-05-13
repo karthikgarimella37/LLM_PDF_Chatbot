@@ -13,10 +13,10 @@ This is a Streamlit application that allows you to upload PDF documents and ask 
 ## Screenshots
 
 ### Upload PDF
-![Upload PDF]('images/PDF Upload.png')
+![Upload PDF](images/PDF%20Upload.png)
 
 ### Process PDF
-![Process PDF]('images/PDF Processing.png')
+![Process PDF](images/PDF%20Processing.png)
 
 ### Ask Questions and Get Answers
 ![Question Answering 1](images/Q&A1.png)
