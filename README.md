@@ -10,6 +10,12 @@ This is a Streamlit application that allows you to upload PDF documents and ask 
 - Uses local models (no API keys required)
 - Efficient text search using FAISS
 
+## LLM Model Download
+
+You need to download the LLM model file and place it in the `models` folder:
+
+- [Download q4_0-orca-mini-3b.gguf from Hugging Face (1.98 GB)](https://huggingface.co/Aryanne/Orca-Mini-3B-gguf/blob/main/q4_0-orca-mini-3b.gguf)
+
 ## Screenshots
 
 ### Upload PDF
