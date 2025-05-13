@@ -172,8 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+<<<<<<< HEAD
 
 
 # Models
 models/
 
+=======
+>>>>>>> 74a55317c1208cf95535169879120f127ddd2a3d
